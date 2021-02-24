@@ -57,5 +57,5 @@ Partial derivative of a gaussian, original and interpolated with 25 random sampl
 Lena, original and interpolated with 4000 random samples (about 6% of the original pixels, linear distance function).
 
 <img src="https://hizliresim.com/YEJkbx.png"/>
-<img src="https://hizliresim.com/N5xqUo.png"/>
+<img src="https://i.hizliresim.com/N5xqUo.png"/>
 
