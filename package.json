@@ -1,7 +1,7 @@
 {
-  "name": "R-GAN-I",
+  "name": "RGANI",
   "version": "1.0",
-  "description": "Radial Reverse Frame Interpolation (R-GAN-I) Case supporta bi-cubic and linear.",
+  "description": "Radial Reverse Frame Interpolation (RGANI) Case supporta bi-cubic and linear.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
