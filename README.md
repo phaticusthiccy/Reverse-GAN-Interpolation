@@ -1,4 +1,4 @@
-rbf
+RGANI
 ===
 ### Reverse GAN Interpolation
 
