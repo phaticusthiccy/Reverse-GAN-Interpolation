@@ -14,7 +14,7 @@ var numeric = require('numeric');
 
 
 
-// Interpolation Types for R-GAN-I
+// Interpolation Types for RGANI
 var distanceFunctions = {
   'linear': distanceLinear,
   'cubic':  distanceCubic,
@@ -28,7 +28,7 @@ var distanceFunctions = {
 
 
 
-function R-GAN-I(points, values, distanceFunction, epsilon) {
+function RGANI(points, values, distanceFunction, epsilon) {
 
   var distance = distanceFunctions.linear;
 
@@ -177,4 +177,4 @@ function distanceMultiquadric(r, epsilon) {
   return Math.sqrt(Math.pow(r / epsilon, 2) + 1);
 }
 
-module.exports = R-GAN-I;
+module.exports = RGANI;
