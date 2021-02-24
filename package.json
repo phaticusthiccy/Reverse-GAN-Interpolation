@@ -1,0 +1,21 @@
+{
+  "name": "R-GAN-I",
+  "version": "1.0",
+  "description": "Radial Reverse Frame Interpolation (R-GAN-I) Case supporta bi-cubic and linear.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phaticusthiccy",
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phaticusthiccy/Reverse-GAN-Interpolation.git"
+  },
+  "dependencies": {
+    "numeric": "~1.2.6",
+    "fastai": "^2.2.7",
+    "deepai": "^1.0.17",
+    "ffmpeg-static": "^4.2.6"
+  }
+}
